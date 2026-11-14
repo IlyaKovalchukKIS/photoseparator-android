@@ -1,0 +1,3 @@
+{"versionCode": 259, "versionName": "0.1.259",
+ "apk": "https://raw.githubusercontent.com/IlyaKovalchukKIS/photoseparator-android/main/photoseparator.apk",
+ "sha256": "cd95db9a4cf2b8736bdc0c2236bf0dbcead5ed7d57d30e457f7228c8d2e8bd74", "size": 10960156, "commit": "e814fc6", "notes": ["Главная экран открывается быстрее при переключении с других вкладок, особенно когда в библиотеке много серий."]}
